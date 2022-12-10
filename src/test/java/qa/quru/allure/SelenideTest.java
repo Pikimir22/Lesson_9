@@ -31,6 +31,6 @@ public class SelenideTest {
 
             $(linkText(REPOSITORY)).click();
             $("#issues-tab").click();
-            $(withText("#80")).should(Condition.exist);
+            $(withText(ISSUE)).should(Condition.exist);
     }
 }
