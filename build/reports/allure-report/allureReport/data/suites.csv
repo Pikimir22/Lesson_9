@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 10 19:46:36 MSK 2022","Sat Dec 10 19:47:03 MSK 2022","26268","","qa.quru.allure.SelenideTest","","qa.quru.allure.SelenideTest","testIssueSurch","testIssueSurch()",""
+"passed","Sat Dec 10 21:26:59 MSK 2022","Sat Dec 10 21:26:59 MSK 2022","108","","qa.quru.allure.LableTest","","qa.quru.allure.LableTest","testStatic","РЎРѕР·РґР°РЅРёРµ",""

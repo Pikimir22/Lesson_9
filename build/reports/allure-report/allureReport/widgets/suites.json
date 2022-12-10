@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"89cd16a91666e3c7ac9850d560453ebd","name":"qa.quru.allure.SelenideTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"2cde32d6baa91c2f94b89584c1312899","name":"qa.quru.allure.LableTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
