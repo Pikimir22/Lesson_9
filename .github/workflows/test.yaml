@@ -9,7 +9,7 @@ jobs:
     #что делаем
     steps:
       #выкачиваем репозиторий
-      -
+
       - uses: actions/checkout@v3
 
         #настраиваем java
